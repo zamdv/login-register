@@ -1,8 +1,8 @@
 PROJECT: Login & Register — PHP + MySQL
 
-CARA MENJALANKAN DI XAMPP:
-1. Copy folder login-register ke htdocs.
-2. Jalankan Apache dan MySQL di XAMPP.
+CARA MENJALANKAN DI LARAGON:
+1. Copy folder login-register ke laragon/www.
+2. Jalankan Apache dan MySQL di LARAGON.
 3. Buka phpMyAdmin lalu import file database.sql.
 4. Buka: http://localhost/login-register/
 5. Register akun baru, lalu login.
